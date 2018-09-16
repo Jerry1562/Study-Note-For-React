@@ -3,4 +3,4 @@ React使用笔记
 
 
 # Menu
-+ [第一天](Study-Note-For-React/note/first-day.md)
++ [第一天](https://github.com/Jerry1562/Study-Note-For-React/blob/master/note/first-day.md)
